@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Build & Publish Dask Worker Image
-=======
-name: Build & Publish Jupyter Notebook Dask Image
->>>>>>> e0a9287 (Initial image dockerfile and workflow commit.)
 
 # Configures this workflow to run every time a change is pushed to the branch called `release`.
 on:

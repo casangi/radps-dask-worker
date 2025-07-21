@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 FROM daskdev/dask:2025.7.0-py3.12
-=======
-FROM daskdev/dask-notebook:2025.7.0-py3.12
->>>>>>> e0a9287 (Initial image dockerfile and workflow commit.)
 
 USER root
 RUN apt-get update && apt-get install -y --no-install-recommends \
