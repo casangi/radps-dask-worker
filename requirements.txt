@@ -1,2 +1,3 @@
 prefect==3.4.9
 prefect-dask==0.3.6
+astroviper==0.0.19
